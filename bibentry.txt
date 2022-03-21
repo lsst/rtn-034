@@ -1,0 +1,9 @@
+% bibentry template for lsst.bib in https://github.com/lsst/lsst-texmf/blob/main/texmf/bibtex/bib/lsst.bib
+
+@DocuShare{RTN-034,
+   author = { Phil Marshall },
+    title = {Planning Tools for Rubin Operations},
+     year = 2022,
+    month = Mar,
+   handle = {RTN-034},
+      url = {https://rtn-034.lsst.io } }
