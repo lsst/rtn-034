@@ -4,21 +4,29 @@
    :target: https://github.com/lsst/rtn-034/actions/
 
 ###################################
-Planning Tools for Rubin Operations
+Deprecated: Planning Tools for Rubin Operations
 ###################################
 
-RTN-034
+RTN-034 vs RTN-005
 =======
 
-This document describes the system for planning budgets and staffing in Vera C. Rubin Observatory Operations. The current implementation is a set of custom, inter-dependent, collaborative workbooks that capture the flow of information from work breakdown structure (WBS) through to 1) labor and non-labor cost estimation, and 2) staffing. This document describes the design, recommended operation, and maintenance of these planning tools.
+RTN-034 was started to describe the system for planning budgets and staffing in Vera C. Rubin Observatory Operations. The current implementation is a set of custom, inter-dependent, collaborative workbooks that capture the flow of information from work breakdown structure (WBS) through to 1) labor and non-labor cost estimation, and 2) staffing. This document was to describes the design, recommended operation, and maintenance of these planning tools.
+
+As of January 2023, the above description is being added to RTN-005 (the work management system technote) instead. 
 
 Links
 =====
 
+RTN-005:
+- Live drafts: https://rtn-005.lsst.io
+- GitHub: https://github.com/lsst/rtn-005
+
+Deprecated RTN-034:
 - Live drafts: https://rtn-034.lsst.io
 - GitHub: https://github.com/lsst/rtn-034
 
-Build
+
+Old Build Notes (no longer relevant) 
 =====
 
 This repository includes lsst-texmf_ as a Git submodule.
